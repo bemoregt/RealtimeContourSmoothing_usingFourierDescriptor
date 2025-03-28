@@ -2,6 +2,11 @@
 
 This application demonstrates real-time contour smoothing using Fourier descriptors with an interactive GUI built with Tkinter and Matplotlib.
 
+## Example Results
+
+![Contour Smoothing Example 1](img1.daumcdn-11.png)
+![Contour Smoothing Example 2](img1.daumcdn-12.png)
+
 ## Overview
 
 The application transforms contours of binary images into the frequency domain using Fast Fourier Transform (FFT) and allows interactive filtering of the frequency components. By adjusting the number of Fourier descriptors retained, users can control the smoothness of the contour in real-time.
